@@ -1,0 +1,1 @@
+<img src="imagens/kin.jpg" class="banner">
